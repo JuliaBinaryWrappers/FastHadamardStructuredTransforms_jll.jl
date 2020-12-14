@@ -1,0 +1,42 @@
+[[FastHadamardStructuredTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "ffb24a2093a4274baa3bd5de6e8b4784b7e62608"
+os = "macos"
+
+    [[FastHadamardStructuredTransforms.download]]
+    sha256 = "d8f7bb783c6b26514687f73754932b9877ddd1a841a1ac934e97c9ffabfbf465"
+    url = "https://github.com/JuliaBinaryWrappers/FastHadamardStructuredTransforms_jll.jl/releases/download/FastHadamardStructuredTransforms-v0.0.1+0/FastHadamardStructuredTransforms.v0.0.1.x86_64-apple-darwin.tar.gz"
+[[FastHadamardStructuredTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "f6deead626df8bf8c95a454d1039e389db7cb66c"
+libc = "glibc"
+os = "linux"
+
+    [[FastHadamardStructuredTransforms.download]]
+    sha256 = "d92fba71c18a89206e256f8a0ee55922444f9f4f80a921728c28cbd3d86e2bc5"
+    url = "https://github.com/JuliaBinaryWrappers/FastHadamardStructuredTransforms_jll.jl/releases/download/FastHadamardStructuredTransforms-v0.0.1+0/FastHadamardStructuredTransforms.v0.0.1.x86_64-linux-gnu.tar.gz"
+[[FastHadamardStructuredTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "29e51d76abc05432ad7a438b39b761300fe6a0fd"
+libc = "musl"
+os = "linux"
+
+    [[FastHadamardStructuredTransforms.download]]
+    sha256 = "597b6d8dff5c89d4478764f6cbbd8db6c006c41c6589dfca06c0a20cecbce6f1"
+    url = "https://github.com/JuliaBinaryWrappers/FastHadamardStructuredTransforms_jll.jl/releases/download/FastHadamardStructuredTransforms-v0.0.1+0/FastHadamardStructuredTransforms.v0.0.1.x86_64-linux-musl.tar.gz"
+[[FastHadamardStructuredTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "5263a778667bb8010960b1dd73e44c0a0cc47c36"
+os = "freebsd"
+
+    [[FastHadamardStructuredTransforms.download]]
+    sha256 = "502da7c0dc1837fbe4f2babb9015464f90d32d016a0dcb3c043c9c6cfeefeea7"
+    url = "https://github.com/JuliaBinaryWrappers/FastHadamardStructuredTransforms_jll.jl/releases/download/FastHadamardStructuredTransforms-v0.0.1+0/FastHadamardStructuredTransforms.v0.0.1.x86_64-unknown-freebsd.tar.gz"
+[[FastHadamardStructuredTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "93c59de083a7eb74665756229c8dcdd6ad414a0c"
+os = "windows"
+
+    [[FastHadamardStructuredTransforms.download]]
+    sha256 = "f3b28aa42ab632aa5e87ca9eef175ecce702f6d5e191eb11a4227b61ce5a36ac"
+    url = "https://github.com/JuliaBinaryWrappers/FastHadamardStructuredTransforms_jll.jl/releases/download/FastHadamardStructuredTransforms-v0.0.1+0/FastHadamardStructuredTransforms.v0.0.1.x86_64-w64-mingw32.tar.gz"
